@@ -1,7 +1,7 @@
 # Bluetooth Smart Light Bulb control using ESP32
 Control a BLE Consmart/Triones/Flyidea light bulb with ESP32. 
 
-Since HUE lights are expensive I was looking for an cheap alternative solution. While searching on AliExpress I found this https://www.aliexpress.com/item/4000262654874.html?spm=a2g0s.9042311.0.0.5c6a4c4d3CjxVb light bulb which can be controlled using BLE. This project demonstrates how to BLE lights using a ESP32. 
+Since HUE lights are expensive I was looking for an cheap alternative solution. While searching on AliExpress I found this https://www.aliexpress.com/item/4000262654874.html?spm=a2g0s.9042311.0.0.5c6a4c4d3CjxVb light bulb which can be controlled using BLE. 
 
 Sinric Pro integration next
 
