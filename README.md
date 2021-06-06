@@ -10,3 +10,5 @@ Sinric Pro integration next
 DEMO
 https://user-images.githubusercontent.com/7474406/120899899-27165d00-c65c-11eb-9a35-602e24a45569.mp4
 
+Credit
+https://github.com/Depau/consmart-ble-mqtt
